@@ -1,6 +1,6 @@
 # vue-note
 
-> A Vue.js project
+> A Vue.js project(vu2.0+vuex+vue-router+bootstrap)
 
 ## Build Setup
 
