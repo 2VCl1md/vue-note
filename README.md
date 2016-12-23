@@ -1,12 +1,12 @@
 # vue-note
 
-> A Vue.js project(vu2.0+vuex+vue-router+bootstrap)
+> A Vue.js project(vue2.0+vuex+vue-router+bootstrap)
 
 ## Build Setup
 
 ``` bash
 # install dependencies
-npm install
+npm install  (ps: npm install -g cnpm --registry=https://registry.npm.taobao.org -> cnpm install)
 
 # serve with hot reload at localhost:8080
 npm run dev
